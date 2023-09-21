@@ -1,5 +1,5 @@
 # Drag-and-Drop Image Gallery
-https://shiny-brioche-240172.netlify.app/
+https://hngx-gallery.netlify.app/
 
 Welcome to the Drag-and-Drop Image Gallery project. This project showcases a visually appealing image gallery with drag-and-drop functionality. Users can log in to access the gallery and rearrange images within it effortlessly.
 
